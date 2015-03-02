@@ -1,0 +1,5 @@
+To convert IPython notebooks
+
+	ipython nbconvert post#.ipynb
+
+
