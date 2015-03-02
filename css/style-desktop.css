@@ -333,6 +333,10 @@
 	
 	#content
 	{
+		/* On the desktop, full width is too much for blog */
+		margin-left: auto;
+    	margin-right: auto;
+    	width: 70%;
 	}
 
 		#content > section,
